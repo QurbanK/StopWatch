@@ -1,0 +1,28 @@
+.start {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  color: #fff;
+  background-color: yellowgreen;
+  margin: 20px;
+}
+
+.stop {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  color: #fff;
+  background-color: red;
+  margin: 20px;
+}
+.reset {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  color: #fff;
+  background-color: green;
+  margin: 20px;
+}
+.App {
+  text-align: center;
+}
